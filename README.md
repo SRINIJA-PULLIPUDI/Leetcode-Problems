@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0048-rotate-image) |
+| [0075-sort-colors](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2887-sort-vowels-in-a-string](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
