@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [2117-find-original-array-from-doubled-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2117-find-original-array-from-doubled-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Heap (Priority Queue)
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2117-find-original-array-from-doubled-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -70,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+## Greedy
+|  |
+| ------- |
+| [2117-find-original-array-from-doubled-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 <!---LeetCode Topics End-->
