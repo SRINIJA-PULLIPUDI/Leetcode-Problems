@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0048-rotate-image) |
 | [0537-complex-number-multiplication](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0537-complex-number-multiplication) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Matrix
 |  |
 | ------- |
