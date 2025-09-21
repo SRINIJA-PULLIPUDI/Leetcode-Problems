@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Brainteaser
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0148-sort-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
