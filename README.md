@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Counting Sort
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Backtracking
 |  |
 | ------- |
@@ -211,4 +215,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
