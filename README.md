@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0561-array-partition) |
+| [0792-binary-search](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0792-binary-search) |
 | [0909-stone-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0909-stone-game) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0792-binary-search](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0792-binary-search) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Game Theory
