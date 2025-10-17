@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0792-binary-search) |
 | [0909-stone-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0909-stone-game) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0561-array-partition) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0561-array-partition) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 ## Bit Manipulation
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0174-dungeon-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0198-house-robber) |
+| [0435-non-overlapping-intervals](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0909-stone-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0909-stone-game) |
 ## Design
 |  |
