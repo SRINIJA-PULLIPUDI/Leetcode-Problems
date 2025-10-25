@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0561-array-partition) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1086-divisor-game) |
 | [1642-water-bottles](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1642-water-bottles) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0561-array-partition) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 ## Bit Manipulation
 |  |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0292-nim-game) |
 | [0909-stone-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1086-divisor-game) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Combinatorics
 |  |
 | ------- |
