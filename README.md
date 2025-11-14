@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Queue
