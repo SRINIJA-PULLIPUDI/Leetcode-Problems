@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1086-divisor-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1086-divisor-game) |
 | [1585-the-kth-factor-of-n](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
