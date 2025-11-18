@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2211-k-radius-subarray-averages](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2211-k-radius-subarray-averages) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Queue
 |  |
