@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1813-maximum-erasure-value](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0029-divide-two-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Sliding Window
