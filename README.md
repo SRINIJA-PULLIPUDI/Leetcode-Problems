@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1813-maximum-erasure-value](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
