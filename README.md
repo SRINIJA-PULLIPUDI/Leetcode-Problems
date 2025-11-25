@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Sliding Window
