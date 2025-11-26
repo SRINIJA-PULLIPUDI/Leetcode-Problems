@@ -1,10 +1,9 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        if(s=="") return 0;
         map<char,int> mp;
         int i=0,j=0;
-        int res=INT_MIN;
+        int res=0;
         while(j<s.size()){
             if(mp[s[j]]==0){
                 mp[s[j]]++;
