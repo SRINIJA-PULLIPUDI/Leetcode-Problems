@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
