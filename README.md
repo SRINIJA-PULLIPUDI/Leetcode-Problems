@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0909-stone-game) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1086-divisor-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1086-divisor-game) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1585-the-kth-factor-of-n](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1642-water-bottles) |
