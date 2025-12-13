@@ -8,9 +8,6 @@ public:
         for(long long i=0;i<nums.size();i++){
             right[nums[i]]++;
         }
-        // for(auto i:right){
-        //     cout<<i.first<<" "<<i.second<<endl;
-        // }
         left[nums[0]]++;
         cout<<left[nums[0]]<<endl;
         for(long long i=1;i<nums.size()-1;i++){
