@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0054-spiral-matrix) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -506,4 +510,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
