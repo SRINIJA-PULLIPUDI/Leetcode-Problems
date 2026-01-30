@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0561-array-partition) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0561-array-partition) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0292-nim-game) |
 | [0537-complex-number-multiplication](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0909-stone-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0909-stone-game) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0029-divide-two-integers) |
 | [0260-single-number-iii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0268-missing-number) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -459,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0268-missing-number](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0713-subarray-product-less-than-k](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
