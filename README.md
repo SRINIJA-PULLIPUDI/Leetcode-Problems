@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3719-longest-balanced-subarray-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3583-count-special-triplets](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bucket Sort
 |  |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3719-longest-balanced-subarray-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -591,4 +595,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0175-combine-two-tables) |
 | [0177-nth-highest-salary](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0177-nth-highest-salary) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
