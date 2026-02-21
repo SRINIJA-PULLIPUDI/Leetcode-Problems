@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3719-longest-balanced-subarray-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Game Theory
 |  |
 | ------- |
