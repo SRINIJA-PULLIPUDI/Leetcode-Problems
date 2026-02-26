@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0292-nim-game) |
 | [0537-complex-number-multiplication](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0537-complex-number-multiplication) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0204-count-primes) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1585-the-kth-factor-of-n](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Recursion
