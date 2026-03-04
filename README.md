@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1470-shuffle-the-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0174-dungeon-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0174-dungeon-game) |
 | [0885-spiral-matrix-iii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0885-spiral-matrix-iii) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
