@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
