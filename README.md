@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
 | ------- |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0077-combinations) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Binary Search Tree
 |  |
 | ------- |
