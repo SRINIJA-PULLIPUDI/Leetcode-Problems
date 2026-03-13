@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1652-defuse-the-bomb](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1813-maximum-erasure-value](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1929-concatenation-of-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-nth-magical-number](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0878-nth-magical-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
