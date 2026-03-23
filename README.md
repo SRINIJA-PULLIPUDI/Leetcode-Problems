@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1004-max-consecutive-ones-iii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0878-nth-magical-number](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0878-nth-magical-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1382-balance-a-binary-search-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
