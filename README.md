@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1470-shuffle-the-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1552-magnetic-force-between-two-balls](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1552-magnetic-force-between-two-balls](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1382-balance-a-binary-search-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1552-magnetic-force-between-two-balls](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
