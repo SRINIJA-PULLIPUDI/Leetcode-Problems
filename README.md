@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3889-mirror-frequency-distance](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3889-mirror-frequency-distance) |
 ## Simulation
 |  |
 | ------- |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3889-mirror-frequency-distance](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3889-mirror-frequency-distance) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3583-count-special-triplets](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3583-count-special-triplets) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3889-mirror-frequency-distance](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3889-mirror-frequency-distance) |
 ## Two Pointers
 |  |
 | ------- |
