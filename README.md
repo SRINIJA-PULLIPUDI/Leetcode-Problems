@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3884-first-matching-character-from-both-ends](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3889-mirror-frequency-distance](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3889-mirror-frequency-distance) |
 ## Simulation
 |  |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3884-first-matching-character-from-both-ends](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Brainteaser
 |  |
 | ------- |
