@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Enumeration
 |  |
