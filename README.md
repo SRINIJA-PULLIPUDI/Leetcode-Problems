@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0204-count-primes) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Union-Find
 |  |
