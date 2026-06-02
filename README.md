@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Brainteaser
 |  |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -642,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2540-minimum-common-value) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Game Theory
 |  |
