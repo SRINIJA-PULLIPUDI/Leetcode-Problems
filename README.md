@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0174-dungeon-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0733-flood-fill) |
 | [0885-spiral-matrix-iii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0994-rotting-oranges) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1086-divisor-game) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
