@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0733-flood-fill) |
 | [0885-spiral-matrix-iii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Backtracking
 |  |
 | ------- |
@@ -833,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
