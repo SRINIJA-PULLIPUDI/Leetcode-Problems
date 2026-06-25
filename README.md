@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2833-furthest-point-from-origin](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
