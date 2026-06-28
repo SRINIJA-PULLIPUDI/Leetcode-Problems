@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1631-path-with-minimum-effort](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1652-defuse-the-bomb](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1732-find-the-highest-altitude](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1631-path-with-minimum-effort](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Quickselect
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1975-maximum-matrix-sum](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2906-construct-product-matrix](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2906-construct-product-matrix) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1631-path-with-minimum-effort](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -703,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Backtracking
 |  |
 | ------- |
@@ -738,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1382-balance-a-binary-search-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2540-minimum-common-value) |
@@ -890,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
