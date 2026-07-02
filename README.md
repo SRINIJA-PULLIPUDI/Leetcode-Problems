@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1631-path-with-minimum-effort](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Quickselect
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2906-construct-product-matrix](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2906-construct-product-matrix) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## String
 |  |
@@ -717,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -914,10 +918,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
