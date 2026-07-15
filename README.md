@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3511-find-the-winning-player-in-coin-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
