@@ -633,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Counting Sort
