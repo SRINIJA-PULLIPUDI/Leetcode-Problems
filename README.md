@@ -632,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0792-binary-search](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0792-binary-search) |
