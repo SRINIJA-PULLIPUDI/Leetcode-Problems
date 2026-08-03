@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0509-fibonacci-number) |
 | [0537-complex-number-multiplication](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0878-nth-magical-number](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0878-nth-magical-number) |
@@ -946,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
