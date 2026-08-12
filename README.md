@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2906-construct-product-matrix](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2906-construct-product-matrix) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -931,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-k-radius-subarray-averages](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
