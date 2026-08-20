@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [4020-elevator-requests-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/4020-elevator-requests-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4020-elevator-requests-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
 | ------- |
