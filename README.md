@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-water-bottles-ii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
