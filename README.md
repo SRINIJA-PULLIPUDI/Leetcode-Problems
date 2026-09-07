@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3904-smallest-stable-index-ii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [4020-elevator-requests-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/4020-elevator-requests-i) |
 ## Divide and Conquer
@@ -925,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3719-longest-balanced-subarray-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3904-smallest-stable-index-ii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Sliding Window
 |  |
 | ------- |
