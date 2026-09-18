@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [4020-elevator-requests-i](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/4020-elevator-requests-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3889-mirror-frequency-distance](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/3889-mirror-frequency-distance) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Bucket Sort
 |  |
 | ------- |
