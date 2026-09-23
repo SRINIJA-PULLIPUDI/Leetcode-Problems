@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0509-fibonacci-number) |
 | [0537-complex-number-multiplication](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0537-complex-number-multiplication) |
+| [0836-rectangle-overlap](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0878-nth-magical-number](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0878-nth-magical-number) |
 | [0909-stone-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0909-stone-game) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -1113,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
