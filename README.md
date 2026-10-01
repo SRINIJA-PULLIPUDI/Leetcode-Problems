@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0204-count-primes) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0268-missing-number) |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0089-gray-code) |
 | [0126-word-ladder-ii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0784-letter-case-permutation](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0784-letter-case-permutation) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
