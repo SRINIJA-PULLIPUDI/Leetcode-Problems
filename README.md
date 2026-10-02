@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0174-dungeon-game) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0089-gray-code) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0204-count-primes) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0678-valid-parenthesis-string) |
