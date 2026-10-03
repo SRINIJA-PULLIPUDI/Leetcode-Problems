@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0792-binary-search) |
 | [0846-hand-of-straights](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0846-hand-of-straights) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0853-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1041,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0853-car-fleet) |
 | [2487-remove-nodes-from-linked-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Database
