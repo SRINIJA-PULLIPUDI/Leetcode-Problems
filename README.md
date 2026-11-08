@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1975-maximum-matrix-sum](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -788,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1267-count-servers-that-communicate](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -874,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -1103,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
