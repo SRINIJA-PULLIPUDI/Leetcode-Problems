@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0901-online-stock-span](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0901-online-stock-span) |
 ## Hash Function
 |  |
 | ------- |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1071,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Database
 |  |
@@ -1174,4 +1177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0881-boats-to-save-people) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/SRINIJA-PULLIPUDI/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
